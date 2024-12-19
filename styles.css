@@ -15,7 +15,7 @@ header {
 }
 
 header nav a {
-    color:TeaGreen;
+    color:teagreen;
     margin: 0 10px;
     text-decoration: none;
 }
@@ -26,7 +26,7 @@ header nav a:hover {
 
 main {
     padding: 20px;
-    background: white;
+    background: black;
     margin: 20px auto;
     max-width: 800px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -34,7 +34,7 @@ main {
 
 footer {
     text-align: center;
-    background: #333;
+    background: huntegreen;
     color: white;
     padding: 10px 0;
     position: fixed;
